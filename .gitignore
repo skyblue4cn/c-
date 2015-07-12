@@ -13,7 +13,7 @@
 *.dylib
 *.dll
 Debug/*.*
-Debug/*
+/Debug
 
 # Fortran module files
 *.mod
